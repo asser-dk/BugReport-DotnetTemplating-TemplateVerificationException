@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/template",
+  "author": "Fenris",
+  "classifications": [
+    "BugReport"
+  ],
+  "identity": "My.Template",
+  "name": "My Bug Report Template",
+  "shortName": "mytemplate",
+  "preferNameDirectory": true,
+  "sourceName": "My.Template",
+  "tags": {
+    "language": "C#",
+    "type": "item"
+  }
+}
